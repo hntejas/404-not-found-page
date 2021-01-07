@@ -8,13 +8,9 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-page-not-found-challanges-io.netlify.app">
       Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
+    </a>   
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
@@ -36,7 +32,7 @@
 
 ## Overview
 
-![screenshot]((https://404-page-not-found-challanges-io.netlify.app/screenshot.png)
+![screenshot](https://404-page-not-found-challanges-io.netlify.app/images/screenshot.png)
 
 ### Built With
 
